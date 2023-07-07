@@ -76,9 +76,11 @@ padding:20px;
    padding: 10px 20px;
    border: none;
    border-radius: 5px;
+   margin-top: 10px;
 }
 .about-us{
+  
     text-align: center;
-    text-decoration-line: underline;
+    text-shadow: 10px 10px 15px;
     padding: 20px;
 }
